@@ -114,6 +114,6 @@ The release notes section summarizes:
 └── Bug_Report_Assignment3.xlsx # Bug reports and release notes
 ```
 
-#Author
+# Author
 
 Ayesha Bhatti
